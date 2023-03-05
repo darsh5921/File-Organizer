@@ -6,3 +6,5 @@ Place This Application Inside a Folder/Desktop  Where You Need To organize all y
 Then Arrange all your Files Accordingly (This needs to be done Just once and Cannot be reverted)
 
 To Arrange Other folder Just Cut the exe from that Folder and Place Inside a Folder You Need to Organize.
+
+[MIT License]=(LICENSE)
