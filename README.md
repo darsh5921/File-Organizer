@@ -8,3 +8,4 @@ Then Arrange all your Files Accordingly (This needs to be done Just once and Can
 To Arrange Other folder Just Cut the exe from that Folder and Place Inside a Folder You Need to Organize.
 
 
+Download Here : https://github.com/darsh5921/File-Organizer/releases
