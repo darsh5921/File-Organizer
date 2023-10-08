@@ -8,6 +8,10 @@ Then Arrange all your Files Accordingly (This needs to be done Just once and Can
 
 To Arrange Other folder Just Cut the Exe from that Folder and Place Inside a Folder You Need to Organize.
 
+# Video Demo
+
+https://www.youtube.com/watch?v=Om5jeV8v4zE&list=PLKc7PFu7bC7fj0hSmO-oYLcBJtrxbCFQi&index=3
+
 # Screenshots
 
 This Is your Cluttered Folder Containing All Files Unorganized.
